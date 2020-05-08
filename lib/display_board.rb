@@ -8,5 +8,5 @@ def display_board
   puts "-----------"
   puts "   |   |   "
   puts "-----------"
-  puts " #{board[6]} | #{board[7]} | #{board[8]} "
+  puts "   | #{board[7]} | #{board[8]} "
 end
